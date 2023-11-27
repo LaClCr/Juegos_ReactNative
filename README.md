@@ -1,7 +1,7 @@
 # Crucigrama y Sopa de Letras en React Native
 
-![Imagen Crucigrama](pon_aqui_tu_enlace_imagen_crucigrama.png)
-![Imagen Sopa de Letras](pon_aqui_tu_enlace_imagen_sopa_letras.png)
+![Imagen Crucigrama](https://github.com/LaClCr/Juegos_ReactNative/blob/main/crucigrama.png)
+![Imagen Sopa de Letras](https://github.com/LaClCr/Juegos_ReactNative/blob/main/sopa.png)
 
 ---
 
@@ -27,5 +27,6 @@ La aplicación consta de dos secciones principales: el crucigrama y la sopa de l
   - Generación aleatoria de letras.
   - Interacción con las letras seleccionadas.
 
+### Vídeo 
 
 [![Vídeo Explicativo](https://www.youtube.com/watch?v=rmnpycZbI3I)](https://www.youtube.com/watch?v=rmnpycZbI3I)
