@@ -1,7 +1,6 @@
 # Crucigrama y Sopa de Letras en React Native
 
-![Imagen Crucigrama](https://github.com/LaClCr/Juegos_ReactNative/blob/main/crucigrama.png)
-![Imagen Sopa de Letras](https://github.com/LaClCr/Juegos_ReactNative/blob/main/sopa.png)
+![Captura de Pantalla](https://github.com/LaClCr/Juegos_ReactNative/blob/main/imagen.png)
 
 ---
 
